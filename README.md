@@ -14,8 +14,6 @@ Easily adjust or reset font smoothing settings on macOS with a graphical user in
 
 Font smoothing is a feature in macOS that makes text appear slightly bolder by enhancing the edges of characters. While it can improve readability in some cases, it can also blur text and distort the finely tuned shapes of certain fonts.
 
-For more details, see the font smoothing section of [Nikita Prokopov’s article on fonts](https://tonsky.me/blog/monospace/).
-
 ---
 
 ## **Why Use Font Smoothing Setter?**
