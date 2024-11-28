@@ -39,7 +39,7 @@ This Automator app restores that convenience, providing an easy way to:
 
 ## **How to Download and Use**
 
-1. **Download the App**: *(Provide download link if hosted online.)*
+1. **Download the App**: MacOS_Font.app.zip and unzip.
 2. **Run the App**:
    - Open the **Font Smoothing Setter** app.
    - Select your desired font smoothing level:
